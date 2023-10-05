@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Calito55831
-- 👀 I’m interested in Python Programming, Data Analysis/Science Cloud DevOps and Engineering
-- 🌱 I’m currently learning Cloud DevOps and Data Analysis/Science 
-- 💞️ I’m looking to collaborate on DevOps projects and Data Analytical projects
-- 📫 How to reach me - ogwuchecaleb6@gmail.com
+         ___        ______     ____ _                 _  ___  
+        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
+       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
+      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
+     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
+ ----------------------------------------------------------------- 
 
-<!---
-Calito55831/Calito55831 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Hi there! Welcome to AWS Cloud9!
+
+To get started, create some files, play with the terminal,
+or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+
+Happy coding!
